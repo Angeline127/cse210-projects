@@ -1,4 +1,7 @@
-﻿using System;
+﻿//TIC-TAC-TOE GAME//
+//AUTHOR:: Angeline Nyepen//
+
+using System;
 using System.Collections.Generic;
 
 namespace Unit01
