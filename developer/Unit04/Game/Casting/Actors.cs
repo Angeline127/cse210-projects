@@ -1,7 +1,7 @@
 using System;
 
 
-namespace Unit04_Greed.Game.Casting
+namespace Unit04.Game.Casting
 {
     /// <summary>
     /// <para>A thing that participates in the game.</para>
@@ -46,7 +46,7 @@ namespace Unit04_Greed.Game.Casting
         /// <summary>
         /// Gets the actor's position.
         /// </summary>
-        /// <returns>The position.</returns>
+       /// <returns>The position.</returns>
         public Point GetPosition()
         {
             return position;

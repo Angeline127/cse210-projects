@@ -1,16 +1,16 @@
 using System.Collections.Generic;
-using Unit04_Greed.Game.Casting;
-using Unit04_Greed.Game.Services;
+using Unit04.Game.Casting;
+using Unit04.Game.Services;
 using System;
 
 using System.IO;
 using System.Linq;
 
-using Unit04_Greed.Game.Directing;
+using Unit04.Game.Directing;
 
 
 
-namespace Unit04_Greed.Game.Directing
+namespace Unit04.Game.Directing
 {
     /// <summary>
     /// <para>A person who directs the game.</para>

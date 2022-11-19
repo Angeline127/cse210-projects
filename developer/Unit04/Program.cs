@@ -1,13 +1,14 @@
-﻿using System;
+﻿//Author: Angeline Nyepen//
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Unit04_Greed.Game.Casting;
-using Unit04_Greed.Game.Directing;
-using Unit04_Greed.Game.Services;
+using Unit04.Game.Casting;
+using Unit04.Game.Directing;
+using Unit04.Game.Services;
 
 
-namespace Unit04_Greed
+namespace Unit04
 {
     /// <summary>
     /// The program's entry point.

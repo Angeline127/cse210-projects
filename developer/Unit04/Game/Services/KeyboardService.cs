@@ -1,8 +1,8 @@
 using Raylib_cs;
-using Unit04_Greed.Game.Casting;
+using Unit04.Game.Casting;
 
 
-namespace Unit04_Greed.Game.Services
+namespace Unit04.Game.Services
 {
     /// <summary>
     /// <para>Detects player input.</para>

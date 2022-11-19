@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using System.IO;
 using System;
 
-namespace Unit04_Greed.Game.Casting
+namespace Unit04.Game.Casting
 {
     // TODO: Implement the Artifact class here
 
