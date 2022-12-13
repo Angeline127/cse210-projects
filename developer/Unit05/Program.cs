@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Unit05
+namespace SandboxProject
 {
     class Program
     {
